@@ -5,7 +5,6 @@ import com.jaygoo.demo.R
 import com.jaygoo.widget.OnRangeChangedListener
 import com.jaygoo.widget.RangeSeekBar
 import com.jaygoo.widget.SeekBar
-import kotlinx.android.synthetic.main.fragment_range.*
 
 /**
 //                       _ooOoo_
